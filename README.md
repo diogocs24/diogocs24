@@ -12,10 +12,6 @@
 - :school: I am a `Student` at [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/en/web_page.inicial).
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 
-## 🔧 Technologies
-
-![skills](https://skillicons.dev/icons?i=c,cpp,java,py,dart,flutter,androidstudio,html,css,js,php,linux,sqlite,firebase&theme=light)
-
 ## 🌐 SOCIALS
 
 <p align="center">
@@ -28,4 +24,9 @@
 </p>
 
 <br>
+
+## 🔧 Technologies
+
+![skills](https://skillicons.dev/icons?i=c,cpp,java,py,dart,flutter,androidstudio,html,css,js,php,linux,sqlite,firebase&theme=light)
+
 	
