@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/diogo-silva-043450295/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:dcoutinhosilva03@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-<a href="https://open.spotify.com/user/franciscosccampos?si=d7f66e6085074651"><img src="https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://open.spotify.com/user/11176195396?si=5cbb1e7e1f374d60"><img src="https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 <br>
