@@ -10,7 +10,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - :school: I am a `Student` at [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/en/web_page.inicial).
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Informatics and Computer Engineering`.
 
 ## 🌐 SOCIALS
 
