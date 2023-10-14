@@ -29,4 +29,11 @@
 
 ![skills](https://skillicons.dev/icons?i=c,cpp,java,py,dart,flutter,androidstudio,html,css,js,php,linux,sqlite,firebase&theme=light)
 
+## ⚡ GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://readme-stats.warengonzaga.com/api?username=diogocs24&show_icons=true&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://readme-stats.warengonzaga.com/api/top-langs?username=diogocs24&layout=compact"/>
+</div>
+
 	
